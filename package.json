@@ -1,0 +1,52 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/masked-view": "0.1.10",
+    "@react-native-community/slider": "3.0.0",
+    "@react-navigation/drawer": "^5.9.1",
+    "@react-navigation/native": "^5.7.3",
+    "@react-navigation/stack": "^5.9.0",
+    "audit": "^0.0.6",
+    "expo": "^38.0.8",
+    "expo-status-bar": "^1.0.2",
+    "fiction-expo-restart": "^1.0.9",
+    "firebase": "^8.6.3",
+    "formik": "^2.1.7",
+    "react": "~16.11.0",
+    "react-dom": "~16.11.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+    "react-native-document-picker": "^5.0.3",
+    "react-native-elements": "^3.4.1",
+    "react-native-gesture-handler": "~1.6.0",
+    "react-native-input-scroll-view": "^1.11.0",
+    "react-native-paper": "^4.7.1",
+    "react-native-reanimated": "~1.9.0",
+    "react-native-restart": "0.0.22",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screens": "~2.9.0",
+    "react-native-status-bar-height": "^2.6.0",
+    "react-native-swipe-render": "^3.1.1",
+    "react-native-swiper-flatlist": "^3.0.14",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-web": "^0.15.0",
+    "react-native-webview": "^11.3.2",
+    "react-native-youtube-iframe": "^1.4.1",
+    "react-navigation-stack": "^2.10.4",
+    "scrollview": "^0.0.0",
+    "start": "^5.1.0",
+    "yarn": "^1.22.10",
+    "yup": "^0.29.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "babel-preset-expo": "~8.1.0"
+  },
+  "private": true
+}
